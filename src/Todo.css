@@ -1,0 +1,15 @@
+.Todo{
+    text-align: center;
+    background-image: url("img2.jpg");
+}
+
+.div {
+    align-items: left;
+    text-align: center;
+  }
+
+.TodoList{
+
+    text-align: right;
+
+}
